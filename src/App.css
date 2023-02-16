@@ -52,7 +52,7 @@ footer{
 .card{
 
 
-  font-size: var(--font-size);
+  font-size: var(--font-size);  
   font-weight: 500;
 }
 .card header,main{
